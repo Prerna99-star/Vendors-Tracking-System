@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Sniglet&display=swap');
+
+:root{
+    --font-unbuntu:'Unbuntu', monospace;
+    --color-border:#e5e5e5;
+}
+
+.font-unbuntu{
+    font:normal 500 16px var(--font-unbuntu);
+}
